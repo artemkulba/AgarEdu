@@ -16,9 +16,9 @@ var default_data = {
 
 	"options": {
 		"kWt_min": 15,
-		"kWt_max": 40,
+		"kWt_max": 50,
 		"score_min": 0.5,
-		"score_max": 5,
+		"score_max": 10,
 		"coin_ammount": 200
 	}
 }
